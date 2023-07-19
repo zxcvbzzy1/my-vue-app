@@ -1,0 +1,27 @@
+@import './base.css';
+
+#app,#gys {
+  width: 100%;
+  height: 100vh;
+  font-weight: normal;
+  font-family: lxgw-r;
+  background-image: url("/PNG素材/web.jpg");
+  background-size: cover;
+  background-origin: border-box;
+}
+#gys{
+  background-image: url("/PNG素材/web.jpg");
+  background-size: cover;
+  background-origin: border-box;
+  /*background-repeat: repeat;*/
+  background-color: rgba(44, 62, 80, 0.63);
+  /*background-attachment: scroll;*/
+}
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+
