@@ -19,7 +19,6 @@
     "vue": "^3.2.47",
     "vue-fullpage.js": "^0.2.13",
     "vue-kinesis": "^2.0.5",
-    "vue-router": "^4.2.4",
     "vue-scrollto": "^2.20.0",
     "vue-typical": "^2.1.0",
     "vue3-animate-onscroll": "^1.0.6",
@@ -29,6 +28,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.1",
     "naive-ui": "^2.34.3",
-    "vite": "^4.3.4"
+    "vite": "^4.4.4"
   }
 }
